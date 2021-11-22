@@ -1,7 +1,7 @@
 # Личный проект «Пинк» 
 
 * Студент: [Антон Лукаш](https://up.htmlacademy.ru/adaptive/24/user/837367).
-* Наставник: `Неизвестно`.
+* Наставник: <a href="https://htmlacademy.ru/profile/id6927">Arthur Litovko</a>.
 
 ---
 
